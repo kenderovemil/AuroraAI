@@ -17,7 +17,7 @@ The `authorized_keys` file contains public keys that are authorized to access th
 To add a new SSH key:
 1. Generate the public key fingerprint to verify it matches
 2. Add the full public key to the `authorized_keys` file
-3. Ensure the file has proper permissions (typically 600 or 644)
+3. Ensure the file has proper permissions (600 - read/write for owner only)
 
 ## Security
 
