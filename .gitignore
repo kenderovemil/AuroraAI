@@ -12,3 +12,6 @@ models/
 
 # Logs
 *.log
+intelligent_ocr_refiner/yay/
+pdfsam/
+training_datasets/flux/ai-toolkit/
